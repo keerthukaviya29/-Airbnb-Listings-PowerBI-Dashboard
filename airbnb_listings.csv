@@ -1,0 +1,101 @@
+listing_id,host_name,host_is_superhost,neighbourhood,city,country,room_type,price_per_night,minimum_nights,number_of_reviews,review_score,availability_365,latitude,longitude
+1001,Priya Sharma,Yes,Bandra West,Mumbai,India,Entire home/apt,4500,2,120,4.9,180,19.0596,72.8295
+1002,Rahul Mehta,No,Andheri East,Mumbai,India,Private room,1800,1,85,4.3,220,19.1136,72.8697
+1003,Anjali Singh,Yes,Powai,Mumbai,India,Entire home/apt,3200,3,200,4.8,150,19.1197,72.9050
+1004,Kiran Patel,No,Dadar,Mumbai,India,Shared room,800,1,45,3.9,300,19.0178,72.8478
+1005,Suresh Kumar,Yes,Juhu,Mumbai,India,Entire home/apt,6500,2,310,4.95,120,19.1031,72.8267
+1006,Meena Iyer,No,Colaba,Mumbai,India,Private room,2200,2,95,4.5,200,18.9067,72.8147
+1007,Vikram Nair,Yes,Worli,Mumbai,India,Entire home/apt,5500,3,175,4.85,160,19.0178,72.8219
+1008,Deepa Reddy,No,Malad West,Mumbai,India,Private room,1500,1,60,4.1,250,19.1861,72.8481
+1009,Arjun Kapoor,Yes,Bandra West,Mumbai,India,Entire home/apt,7000,2,280,4.92,130,19.0596,72.8295
+1010,Kavitha Rajan,No,Thane,Mumbai,India,Shared room,600,1,30,3.7,320,19.2183,72.9781
+1011,Ravi Shankar,Yes,Koramangala,Bangalore,India,Entire home/apt,3800,2,195,4.88,170,12.9352,77.6245
+1012,Divya Menon,No,Indiranagar,Bangalore,India,Private room,1600,1,110,4.4,210,12.9784,77.6408
+1013,Arun Thomas,Yes,Whitefield,Bangalore,India,Entire home/apt,4200,3,230,4.91,140,12.9698,77.7499
+1014,Smitha Nair,No,HSR Layout,Bangalore,India,Private room,1400,1,75,4.2,240,12.9116,77.6389
+1015,Prakash Rao,Yes,JP Nagar,Bangalore,India,Entire home/apt,3500,2,160,4.82,155,12.9102,77.5850
+1016,Anitha Krishnan,No,Marathahalli,Bangalore,India,Shared room,700,1,40,3.8,290,12.9591,77.6974
+1017,Sunil Verma,Yes,Electronic City,Bangalore,India,Entire home/apt,2800,2,145,4.75,175,12.8399,77.6770
+1018,Preethi Subramanian,No,Hebbal,Bangalore,India,Private room,1900,1,88,4.35,215,13.0358,77.5970
+1019,Mohan Pillai,Yes,Koramangala,Bangalore,India,Entire home/apt,4800,3,260,4.93,135,12.9352,77.6245
+1020,Lakshmi Devi,No,Jayanagar,Bangalore,India,Shared room,650,1,35,3.75,310,12.9250,77.5938
+1021,Amit Gupta,Yes,Connaught Place,Delhi,India,Entire home/apt,5000,2,220,4.87,150,28.6315,77.2167
+1022,Sunita Sharma,No,Karol Bagh,Delhi,India,Private room,1700,1,95,4.3,225,28.6514,77.1907
+1023,Rajesh Khanna,Yes,Lajpat Nagar,Delhi,India,Entire home/apt,3600,2,185,4.83,160,28.5672,77.2434
+1024,Pooja Malhotra,No,Dwarka,Delhi,India,Private room,1300,1,70,4.1,245,28.5921,77.0460
+1025,Vinay Saxena,Yes,Hauz Khas,Delhi,India,Entire home/apt,5800,3,295,4.94,125,28.5494,77.2001
+1026,Nisha Agarwal,No,Rohini,Delhi,India,Shared room,750,1,42,3.85,295,28.7041,77.1025
+1027,Tarun Bhatia,Yes,South Extension,Delhi,India,Entire home/apt,4400,2,210,4.86,155,28.5700,77.2200
+1028,Geeta Joshi,No,Janakpuri,Delhi,India,Private room,1200,1,65,4.0,255,28.6219,77.0878
+1029,Manoj Tiwari,Yes,Vasant Kunj,Delhi,India,Entire home/apt,6200,3,320,4.96,120,28.5244,77.1577
+1030,Shalini Pandey,No,Pitampura,Delhi,India,Shared room,700,1,38,3.8,305,28.7017,77.1302
+1031,Karthik Nair,Yes,Anna Nagar,Chennai,India,Entire home/apt,3200,2,175,4.84,165,13.0850,80.2101
+1032,Vijayalakshmi,No,T Nagar,Chennai,India,Private room,1400,1,90,4.25,230,13.0418,80.2341
+1033,Balaji Raman,Yes,Adyar,Chennai,India,Entire home/apt,3800,2,200,4.88,150,13.0012,80.2565
+1034,Malathi Suresh,No,Velachery,Chennai,India,Private room,1100,1,60,4.0,260,12.9815,80.2180
+1035,Senthil Kumar,Yes,Nungambakkam,Chennai,India,Entire home/apt,4500,3,245,4.91,135,13.0569,80.2425
+1036,Radhika Venkat,No,Tambaram,Chennai,India,Shared room,600,1,32,3.7,315,12.9249,80.1000
+1037,Ganesh Iyer,Yes,Mylapore,Chennai,India,Entire home/apt,3500,2,190,4.85,155,13.0368,80.2676
+1038,Saranya Murugan,No,Porur,Chennai,India,Private room,1200,1,55,3.95,270,13.0389,80.1572
+1039,Venkatesh Pillai,Yes,Besant Nagar,Chennai,India,Entire home/apt,4200,2,215,4.89,140,12.9990,80.2707
+1040,Mythili Krishnan,No,Chromepet,Chennai,India,Shared room,550,1,28,3.65,325,12.9516,80.1462
+1041,James Wilson,Yes,Whitechapel,London,United Kingdom,Entire home/apt,12000,3,280,4.92,130,51.5194,-0.0599
+1042,Sarah Thompson,No,Camden,London,United Kingdom,Private room,5500,1,150,4.5,200,51.5390,-0.1426
+1043,Michael Brown,Yes,Kensington,London,United Kingdom,Entire home/apt,18000,2,310,4.95,115,51.4994,-0.1925
+1044,Emma Davis,No,Shoreditch,London,United Kingdom,Private room,6500,1,120,4.4,215,51.5227,-0.0793
+1045,Oliver Smith,Yes,Notting Hill,London,United Kingdom,Entire home/apt,15000,3,260,4.93,125,51.5138,-0.2049
+1046,Sophie Johnson,No,Greenwich,London,United Kingdom,Shared room,2500,1,80,4.0,280,51.4826,-0.0077
+1047,Harry Williams,Yes,Brixton,London,United Kingdom,Entire home/apt,10000,2,230,4.87,145,51.4613,-0.1156
+1048,Charlotte Jones,No,Hackney,London,United Kingdom,Private room,5000,1,105,4.3,220,51.5450,-0.0553
+1049,George Taylor,Yes,Islington,London,United Kingdom,Entire home/apt,14000,3,290,4.94,120,51.5362,-0.1033
+1050,Amelia White,No,Croydon,London,United Kingdom,Shared room,2000,1,65,3.9,295,51.3762,-0.0982
+1051,Pierre Dupont,Yes,Le Marais,Paris,France,Entire home/apt,14000,2,300,4.93,125,48.8566,2.3522
+1052,Marie Laurent,No,Montmartre,Paris,France,Private room,5000,1,140,4.45,205,48.8867,2.3431
+1053,Jean Petit,Yes,Saint Germain,Paris,France,Entire home/apt,19000,3,320,4.96,110,48.8534,2.3330
+1054,Claire Moreau,No,Bastille,Paris,France,Private room,5800,1,115,4.35,220,48.8533,2.3692
+1055,Luc Bernard,Yes,Champs Elysees,Paris,France,Entire home/apt,22000,2,350,4.97,105,48.8698,2.3078
+1056,Sophie Martin,No,Belleville,Paris,France,Shared room,2200,1,70,3.95,290,48.8698,2.3833
+1057,Antoine Leroy,Yes,Oberkampf,Paris,France,Entire home/apt,12000,2,240,4.88,140,48.8635,2.3769
+1058,Isabelle Simon,No,Nation,Paris,France,Private room,4800,1,100,4.25,225,48.8484,2.3964
+1059,François Roux,Yes,Opera,Paris,France,Entire home/apt,16000,3,275,4.91,120,48.8719,2.3316
+1060,Camille Girard,No,Pigalle,Paris,France,Shared room,2500,1,75,4.0,285,48.8837,2.3378
+1061,Carlos Garcia,Yes,Gracia,Barcelona,Spain,Entire home/apt,10000,2,265,4.91,135,41.4036,2.1585
+1062,Maria Rodriguez,No,Gothic Quarter,Barcelona,Spain,Private room,4200,1,130,4.4,210,41.3818,2.1685
+1063,Jose Martinez,Yes,Eixample,Barcelona,Spain,Entire home/apt,11500,3,280,4.93,125,41.3917,2.1649
+1064,Ana Sanchez,No,Barceloneta,Barcelona,Spain,Private room,5000,1,110,4.3,220,41.3809,2.1896
+1065,Luis Lopez,Yes,Poble Nou,Barcelona,Spain,Entire home/apt,9500,2,250,4.89,140,41.4041,2.1968
+1066,Isabella Fernandez,No,Sants,Barcelona,Spain,Shared room,2000,1,65,3.85,295,41.3784,2.1339
+1067,Miguel Perez,Yes,Les Corts,Barcelona,Spain,Entire home/apt,8500,2,220,4.85,150,41.3861,2.1219
+1068,Sofia Gonzalez,No,Sarria,Barcelona,Spain,Private room,4500,1,95,4.2,230,41.4029,2.1241
+1069,Antonio Diaz,Yes,Gracia,Barcelona,Spain,Entire home/apt,10500,3,270,4.92,130,41.4036,2.1585
+1070,Elena Torres,No,El Born,Barcelona,Spain,Shared room,2200,1,72,3.9,290,41.3851,2.1814
+1071,John Smith,Yes,Manhattan,New York,United States,Entire home/apt,25000,3,380,4.96,110,40.7128,-74.0060
+1072,Emily Johnson,No,Brooklyn,New York,United States,Private room,8000,1,180,4.5,200,40.6782,-73.9442
+1073,David Williams,Yes,SoHo,New York,United States,Entire home/apt,32000,2,420,4.97,100,40.7233,-74.0030
+1074,Jessica Brown,No,Queens,New York,United States,Private room,6500,1,145,4.3,215,40.7282,-73.7949
+1075,Daniel Jones,Yes,Upper East Side,New York,United States,Entire home/apt,28000,3,390,4.95,108,40.7736,-73.9566
+1076,Ashley Davis,No,Bronx,New York,United States,Shared room,3500,1,90,4.0,275,40.8448,-73.8648
+1077,Matthew Miller,Yes,Williamsburg,New York,United States,Entire home/apt,22000,2,360,4.94,115,40.7081,-73.9571
+1078,Amanda Wilson,No,Harlem,New York,United States,Private room,7000,1,160,4.4,205,40.8116,-73.9465
+1079,Christopher Moore,Yes,Midtown,New York,United States,Entire home/apt,35000,3,450,4.98,95,40.7549,-73.9840
+1080,Stephanie Taylor,No,Staten Island,New York,United States,Shared room,3000,1,75,3.85,285,40.5795,-74.1502
+1081,Hiroshi Tanaka,Yes,Shinjuku,Tokyo,Japan,Entire home/apt,18000,2,310,4.94,120,35.6938,139.7034
+1082,Yuki Sato,No,Shibuya,Tokyo,Japan,Private room,7000,1,165,4.45,205,35.6580,139.7016
+1083,Kenji Yamamoto,Yes,Asakusa,Tokyo,Japan,Entire home/apt,15000,3,280,4.91,130,35.7148,139.7967
+1084,Akemi Nakamura,No,Akihabara,Tokyo,Japan,Private room,6500,1,140,4.35,215,35.7022,139.7745
+1085,Takeshi Kobayashi,Yes,Ginza,Tokyo,Japan,Entire home/apt,22000,2,350,4.96,110,35.6714,139.7671
+1086,Haruka Ito,No,Harajuku,Tokyo,Japan,Shared room,3000,1,85,4.0,275,35.6702,139.7026
+1087,Ryota Watanabe,Yes,Roppongi,Tokyo,Japan,Entire home/apt,20000,2,330,4.93,120,35.6627,139.7307
+1088,Nana Suzuki,No,Ikebukuro,Tokyo,Japan,Private room,6000,1,120,4.25,225,35.7295,139.7109
+1089,Daiki Saito,Yes,Ueno,Tokyo,Japan,Entire home/apt,16000,3,290,4.92,125,35.7141,139.7774
+1090,Miku Kato,No,Odaiba,Tokyo,Japan,Shared room,3500,1,80,3.95,280,35.6267,139.7750
+1091,Liam Chen,Yes,Orchard,Singapore,Singapore,Entire home/apt,16000,2,295,4.93,125,1.3048,103.8318
+1092,Mei Lin,No,Chinatown,Singapore,Singapore,Private room,6000,1,150,4.4,205,1.2838,103.8444
+1093,Wei Zhang,Yes,Marina Bay,Singapore,Singapore,Entire home/apt,22000,3,340,4.96,110,1.2789,103.8536
+1094,Jia Yi,No,Bugis,Singapore,Singapore,Private room,5500,1,125,4.3,220,1.3005,103.8560
+1095,Xiao Ming,Yes,Sentosa,Singapore,Singapore,Entire home/apt,28000,2,380,4.97,105,1.2494,103.8303
+1096,Hui Ling,No,Jurong,Singapore,Singapore,Shared room,2500,1,70,3.9,290,1.3404,103.7090
+1097,Bao Yu,Yes,Tampines,Singapore,Singapore,Entire home/apt,14000,2,270,4.9,130,1.3496,103.9568
+1098,Xin Yi,No,Woodlands,Singapore,Singapore,Private room,5000,1,110,4.2,230,1.4319,103.7864
+1099,Jing Wen,Yes,Clementi,Singapore,Singapore,Entire home/apt,18000,3,310,4.94,120,1.3162,103.7649
+1100,Li Na,No,Punggol,Singapore,Singapore,Shared room,2800,1,78,3.95,285,1.3984,103.9072
